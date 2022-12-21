@@ -29,3 +29,6 @@ The symbols after it describes shape and connections.
 * Extrusion width: 0.5mm
 * Algorithm: Arachne
 * Adhesive: PVP Gluestick later switched to Acetone-cleaned PEI Bed
+
+## Videos
+* [(Single) Cuff assembly](https://www.youtube.com/watch?v=E98CsssN0LQ)
