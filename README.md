@@ -7,10 +7,10 @@ This only applies to parts that can be purchased (machined parts may have differ
 
 ## Rod connecors naming convention (version 2)
 Rod naming convention has been simplified to include almost any data you may want (and to make it easy to search specific connector in a mess called folder)
-* R<n> - connects n rods
-* L<n> - connects n links
-* R<x/y/z><a> - connects rod rotated by <a> angle at x/y/z axis
-* L<x/y/z><a> - connects link rotated by <a> angle at x/y/z axis
+* R(n) - connects n rods
+* L(n) - connects n links
+* R(x/y/z)(a) - connects rod rotated by <a> angle at x/y/z axis
+* L(x/y/z)(a) - connects link rotated by <a> angle at x/y/z axis
 * C - angles are curved
 * S - angles are sharp
 
