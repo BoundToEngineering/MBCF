@@ -5,15 +5,14 @@ MBCF is an universal contraption framework which allows you to DiY many differen
 MBCF is designed to be mostly 3D-printable and 3N-based. This means that we mostly use M3, M6 or M12 screws and 3/6/12mm rods (9mm is quite hard to obtain).
 This only applies to parts that can be purchased (machined parts may have different dimensions, but we try to keep to rule above).
 
-## Rod connecors naming convention
-Rod connector name starts with R2R or R2L prefix. This defines if it connects any cuff links or only rods. 
-* R2L - connects at least one rod to at least one link.
-* R2R - connects at least one rod to one rod.
-
-The symbols after it describes shape and connections.
-* A - defines angle between joints. Eg. A75 means that angle between joints is 75 degree. Angles are in 15 degree intervals.
-* T - defines amount of connections. Eg T3 means that joint has 3 connections. T4 - 4 connections etc.
-* C/R - defines if it's flat or corner shape (C - flat, R - corner).
+## Rod connecors naming convention (version 2)
+Rod naming convention has been simplified to include almost any data you may want (and to make it easy to search specific connector in a mess called folder)
+* R<n> - connects n rods
+* L<n> - connects n links
+* R<x/y/z><a> - connects rod rotated by <a> angle at x/y/z axis
+* L<x/y/z><a> - connects link rotated by <a> angle at x/y/z axis
+* C - angles are curved
+* S - angles are sharp
 
 ## About printing
 ### Recommended materials
@@ -29,6 +28,7 @@ The symbols after it describes shape and connections.
 * Extrusion width: 0.5mm
 * Algorithm: Arachne
 * Adhesive: PVP Gluestick later switched to Acetone-cleaned PEI Bed
+* Used material: Fiberlogy Easy PETG
 
 ## Videos
 * [(Single) Cuff assembly](https://www.youtube.com/watch?v=E98CsssN0LQ)
