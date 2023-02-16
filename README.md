@@ -18,9 +18,9 @@ Rod naming convention has been simplified to include almost any data you may wan
 ### Recommended materials
 * PLA - quite hard, however makes contraptions fragile
 * PETG - our preferred choice, has perfect balance between rigidity and elasticity which reduces cracks and improves resistance to instantaneous high forces
+* ASA - when PETG is not an option
 * PA6CF15 - hard, however our printing settings made it too fragile for this application
-### Our print settings
-* Printer: Prusa i3 MK3S
+### Our print settings - Prusa i3 MK3S
 * Slicer: PrusaSlicer
 * Ambient temp.: 25C +/-1C
 * Infill: 10% rectilinear (20% recommended)
@@ -28,7 +28,17 @@ Rod naming convention has been simplified to include almost any data you may wan
 * Extrusion width: 0.5mm
 * Algorithm: Arachne
 * Adhesive: PVP Gluestick later switched to Acetone-cleaned PEI Bed
-* Used material: Fiberlogy Easy PETG
+* Used material: Fiberlogy Easy PETG, PF PLA
 
-## Videos
+### Our print settings - BambuLab X1 Carbon
+* Slicer: Bambu Studio
+* Ambient temp.: 25C +/-1C
+* Infill: 15% rectilinear (20% recommended)
+* Nozzle diameter: 0.4mm
+* Extrusion width: 0.42mm
+* Algorithm: Arachne
+* Adhesive: Bambu Cool Plate with PVP-based adhesive (5% PVP in IPA w/w), Smooth PEI Plate, Textured PEI Plate
+* Used material: Fiberlogy Easy PETG & PLA, PF PLA, Devil Design PETG
+
+## Videos (WIP)
 * [(Single) Cuff assembly](https://www.youtube.com/watch?v=E98CsssN0LQ)
